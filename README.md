@@ -6,7 +6,13 @@
 I am currently a student at CodeSpace, I am doing Javascript Engineering for 12 months. I am aspiring full-stack developer!
 
 I have worked on several projects so far. My ultimate favourite was the BlackJack Game! Here's a link to my BlackJack Project:
-https://scrimba.com/scrim/cdKnWrfv
+https://scrimba.com/scrim/cdKnWrfv . 
+
+---
+
+**My Skills & Experience:**
+
+JS | CSS | HTML
 
 ---
 **ToolBox**
